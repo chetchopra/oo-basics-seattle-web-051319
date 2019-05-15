@@ -5,7 +5,7 @@ class Shoe
   end
   
   def cobble
-    puts "Some stupid shit"
+    puts "Your shoe is as good as new!"
   end
   
 end
